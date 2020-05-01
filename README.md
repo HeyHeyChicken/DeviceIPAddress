@@ -21,7 +21,7 @@ This skill will allow you to know your assistant IP address.
 
 ## Features
 
-- It will allow your assistant to roll a die (give you a number between 1 and 6).
+- It will allow you to know your assistant IP address.
 
 ## Support and contribution
 
