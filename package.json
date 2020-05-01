@@ -1,0 +1,16 @@
+{
+  "name": "nova-device-ip-address",
+  "version": "1.0.0",
+  "description": "This skill will allow you to know your assistant IP address.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyHeyChicken/NOVA-Device-IP-Address.git"
+  },
+  "author": "Antoine Duval",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/HeyHeyChicken/NOVA-Device-IP-Address/issues"
+  },
+  "homepage": "https://github.com/HeyHeyChicken/NOVA-Device-IP-Address#readme"
+}
