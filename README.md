@@ -6,7 +6,7 @@ This skill will allow you to know your assistant IP address.
 
 <br>
 
-<img src="https://github.com/HeyHeyChicken/NOVA-Device-IP-Address/blob/master/resources/screenshot.jpg" alt="NOVA" width="800">
+<img src="https://github.com/HeyHeyChicken/NOVA-Device-IP-Address/blob/master/resources/github-screenshot.jpg" alt="NOVA" width="800">
 </div>
 
 <br>
