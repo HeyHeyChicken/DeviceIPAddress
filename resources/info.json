@@ -1,0 +1,10 @@
+{
+	"worksOffline" : true,
+	"description" : {
+		"fr-FR": "Cette compétence vous permettra de connaître l'adresse IP de votre assistant.",
+		"en-US": "This skill will allow you to know your assistant IP address."
+	},
+	"language": [
+		"fr-FR"
+	]
+}
