@@ -5,6 +5,7 @@
 		"en-US": "This skill will allow you to know your assistant IP address."
 	},
 	"language": [
-		"fr-FR"
+		"fr-FR",
+		"en-US"
 	]
 }

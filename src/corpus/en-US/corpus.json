@@ -1,0 +1,22 @@
+{
+  "name": "DeviceIPAddress",
+  "data": [
+    {
+      "intent": "DeviceIPAddress.get",
+      "utterances": [
+        "What is your ip",
+        "Tell me your ip",
+        "Give me your ip",
+        "What is your network address",
+        "What is your ip address",
+        "Tell me your network address",
+        "Tell me your ip address",
+        "Give me your network address",
+        "Give me your ip address"
+      ],
+      "answers": [
+        "My IP address is %address%."
+      ]
+    }
+  ]
+}
